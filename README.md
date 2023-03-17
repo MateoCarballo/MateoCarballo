@@ -6,7 +6,8 @@
 - Estudiante de Desarrollo de Aplicaciones Web (DAW) en Ies de Teis
 
 ### Mis objetivos y habilidades
-Actualmente, tengo conocimientos básicos de Java y MySQL, y uso IntelliJ y VisualStudioCode para programar. Mi objetivo es seguir mejorando mis habilidades de programación y convertirme en un desarrollador web profesional.
+Actualmente, tengo conocimientos básicos de Java y MySQL. Uso IntelliJ y VisualStudioCode para programar. 
+Mi objetivo es seguir mejorando mis habilidades de programación y convertirme en un desarrollador web profesional.
 
 ### Materias que estoy cursando
 | Materia | Descripción |
