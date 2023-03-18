@@ -1,11 +1,11 @@
 # Hola, soy Mateo Carballo Alonso 👋
 
-### Sobre mí
+### 🚀Sobre mí
 - Fecha de nacimiento: 07 de septiembre de 1993
 - Residencia: Vigo
 - Estudiante de Desarrollo de Aplicaciones Web (DAW) en Ies de Teis
 
-### Mis objetivos y habilidades
+## 🛠 Habilidades y objetivos
 Actualmente, tengo conocimientos básicos de Java y MySQL. Uso IntelliJ y VisualStudioCode para programar. 
 Mi objetivo es seguir mejorando mis habilidades de programación y convertirme en un desarrollador web profesional.
 
