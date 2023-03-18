@@ -9,13 +9,12 @@
 Actualmente, tengo conocimientos básicos de Java y MySQL. Uso IntelliJ y VisualStudioCode para programar. 
 Mi objetivo es seguir mejorando mis habilidades de programación y convertirme en un desarrollador web profesional.
 
-### Materias que estoy cursando
-# DAW :+1:
-
 Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 
 ¡Gracias por visitar mi perfil! Siéntete libre de echar un vistazo a mis repositorios y contactarme si tienes alguna pregunta o sugerencia. 😊
 
+### Materias que estoy cursando
+# DAW :+1:
 ## Materias
 
 | Materia      | Enlace Repositorio |
