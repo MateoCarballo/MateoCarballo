@@ -35,7 +35,7 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 |------------------|--------|
 | Patrones         | [Enlace](https://refactoring.guru/)|
 | ChatGPT          | [Enlace](https://chat.openai.com/chat) |
-| Jasper AI        | [Enlace](www.jasper.ai)|
+| Jasper AI        | [Enlace](https://www.jasper.ai)|
 | Synthesia        | [Enlace](https://www.synthesia.io)|
 | Dall-E-2         | [Enlace](https://labs.openai.com)|
 | Sintaxis Markdown| [Enlace](https://daringfireball.net/projects/markdown/syntax)|
