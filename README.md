@@ -22,7 +22,8 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 | :computer: Programación | [Enlace](https://github.com/MateoCarballo/Programacion)|
 | :floppy_disk: Bases de Datos| [Enlace](https://github.com/MateoCarballo/BasesdeDatos)|
 | :bulb: Contornos    | [Enlace](https://github.com/MateoCarballo/Contornos)|
-| :computer: Sistemas Informáticos | [Enlace]|
+| :gear: Sistemas Informáticos | [Enlace]|
+| :pencil: Lenguaje de Marcas | [Enlace]|
 
 ![image](https://user-images.githubusercontent.com/115709668/226120756-12e08eba-714e-4cfe-b901-4f8dea9ca8ee.png)
 
