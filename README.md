@@ -46,4 +46,6 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 | Markdown (.md)   | [Enlace](https://daringfireball.net/projects/markdown/syntax)|
 
 
-
+<!-- Cosas pendientes de realizar a nivel general.
+1. Buscar imagenes para introducir en la cabezera de cada readme de cada materia. Unificar
+2. -->
