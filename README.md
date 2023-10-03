@@ -56,3 +56,13 @@ También puedes encontrarme en Twitter como [@tu_cuenta_de_twitter](https://twit
 <!-- Cosas pendientes de realizar a nivel general.
 1. Buscar imagenes para introducir en la cabezera de cada readme de cada materia. Unificar
 2. -->
+
+
+<!-- Enlaces a gifs por si los necesito para " decorar" 
+1. ![iamge](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
+2.![iamge](https://tenor.com/view/code-daddycoolcool-gif-8491515)
+3.![iamge](https://tenor.com/view/test-typing-codes-gif-15828752)
+4.![iamge](https://tenor.com/view/uwu-cat-gif-26479500)
+5.![iamge](https://tenor.com/view/microsoft-hackathon-hackathon-hackathon2020-microsoft-msft-garage-gif-17807819)
+6.![iamge]()
+-->
