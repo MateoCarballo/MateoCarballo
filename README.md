@@ -3,7 +3,7 @@
 ### 🚀Sobre mí
 - Fecha de nacimiento: 07 de septiembre de 1993
 - Residencia: Vigo
-- Estudiante de Desarrollo de Aplicaciones Web (DAW) en Ies de Teis
+- Estudiante de Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma en Ies de Teis
 
 ## 🛠 Habilidades y objetivos
 Actualmente, tengo conocimientos básicos de Java y MySQL. Uso IntelliJ y VisualStudioCode para programar. 
@@ -27,11 +27,9 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 
 ![image](https://user-images.githubusercontent.com/115709668/226120756-12e08eba-714e-4cfe-b901-4f8dea9ca8ee.png)
 
-
-## Recursos Útiles
-
 <details>
-<summary>Recursos Útiles</summary>
+  
+<summary>Listado páginas relevantes</summary>
 
 | Nombre           | Enlace |
 |------------------|--------|
@@ -44,6 +42,7 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 | Lenguajes Dev    | [Enlace](https://devdocs.io/css/)|
 | Sintaxis .md     | [Enlace](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
 | Markdown (.md)   | [Enlace](https://daringfireball.net/projects/markdown/syntax)|
+</details>
 
 ## Contacto
 
