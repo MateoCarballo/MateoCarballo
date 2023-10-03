@@ -47,11 +47,11 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 
 ## Contacto
 
-Puedes contactarme a través de mi correo electrónico: [tucorreo@example.com](mailto:tucorreo@example.com).
+Puedes contactarme a través de mi correo electrónico: [tucorreo@example.com](mailto:).
 
 ## Redes Sociales
 
-También puedes encontrarme en Twitter como [@tu_cuenta_de_twitter](https://twitter.com/tu_cuenta_de_twitter).
+También puedes encontrarme en Twitter como [@tu_cuenta_de_twitter](https://twitter.com/).
 
 
 <!-- Cosas pendientes de realizar a nivel general.
