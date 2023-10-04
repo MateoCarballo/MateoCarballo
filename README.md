@@ -44,13 +44,7 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 | Markdown (.md)   | [Enlace](https://daringfireball.net/projects/markdown/syntax)|
 </details>
 
-## Contacto
 
-Puedes contactarme a través de mi correo electrónico: [tucorreo@example.com](mailto:).
-
-## Redes Sociales
-
-También puedes encontrarme en Twitter como [@tu_cuenta_de_twitter](https://twitter.com/).
 
 
 <!-- Cosas pendientes de realizar a nivel general.
@@ -65,4 +59,8 @@ También puedes encontrarme en Twitter como [@tu_cuenta_de_twitter](https://twit
 4.![iamge](https://tenor.com/view/uwu-cat-gif-26479500)
 5.![iamge](https://tenor.com/view/microsoft-hackathon-hackathon-hackathon2020-microsoft-msft-garage-gif-17807819)
 6.![iamge]()
+-->
+
+<!-- Pendiente de anadir zona de contacto con email solo para esta funcion
+y redes sociales RRSS unicas para 'trabajo'
 -->
