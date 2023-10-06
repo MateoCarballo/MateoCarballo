@@ -13,7 +13,7 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 
 ¡Gracias por visitar mi perfil! Siéntete libre de echar un vistazo a mis repositorios y contactarme si tienes alguna pregunta o sugerencia. 😊
 
-# DAW :+1:
+# DAW/DAM :+1:
 ## Materias
 
 | Materia      | Enlace Repositorio |
