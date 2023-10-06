@@ -47,10 +47,10 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 > Eres libre de coger toda la informacion que te sea útil.
 
 > [!IMPORTANT]
-> La idea de este repositorio es tener un backup de todo lo que hago cursando esta FP. 
+> La idea de este repositorio es tener una copia de seguridad de todo lo que hago mientras curso esta FP. 
 
 > [!WARNING]
-> Puede haber errores en el codigo que consultas si tienes dudas pruebalo y si lo mejoras avísame.
+> Puede haber errores en el código que consultas. Si tienes dudas, pruébalo y si lo mejoras, avísame.
 
 
 <!-- Cosas pendientes de realizar a nivel general.
