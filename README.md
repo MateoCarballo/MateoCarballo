@@ -43,7 +43,14 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 | Markdown (.md)   | [Enlace](https://daringfireball.net/projects/markdown/syntax)|
 </details>
 
+> [!NOTE]
+> Eres libre de coger toda la informacion que te sea útil.
 
+> [!IMPORTANT]
+> La idea de este repositorio es tener un backup de todo lo que hago cursando esta FP. 
+
+> [!WARNING]
+> Puede haber errores en el codigo que consultas si tienes dudas pruebalo y si lo mejoras avísame.
 
 
 <!-- Cosas pendientes de realizar a nivel general.
