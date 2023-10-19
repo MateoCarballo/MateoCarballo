@@ -15,6 +15,26 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 
 # DAW/DAM :+1:
 ## Materias
+<!-- EXPLICACION DE COMO GENERAR LOS BOTONES (qUE SIGNIFICA CADA PARTE) 
+
+```markdown
+[![Programación](https://img.shields.io/badge/Programación-%F0%9F%92%BB-Boton?color=2271B3)](https://github.com/MateoCarballo/Programacion)
+```
+
+1. `[![Programación]`: Esta es la parte del badge que se muestra al usuario. El texto "Programación" es el nombre que aparecerá en el badge. Puedes cambiarlo al nombre de tu proyecto o lo que desees.
+
+2. `https://img.shields.io/badge/Programación-%F0%9F%92%BB-Boton?color=2271B3`: Esta es la URL que enlaza con la imagen del badge. Está formada por varias partes:
+   - `https://img.shields.io/badge/`: Esto es la URL base de Shields.io, un servicio que genera badges personalizados.
+   - `Programación`: Aquí se repite el texto del badge, que se muestra como parte de la URL.
+   - `%F0%9F%92%BB`: Esto es un código de escape Unicode que representa un icono. En este caso, es el icono de un ordenador portátil (💻). Puedes cambiarlo al icono que desees utilizando códigos Unicode.
+   - `Boton`: Es un texto opcional que describe el estilo del badge. Puedes cambiarlo o eliminarlo si lo deseas.
+   - `color=2271B3`: Esto establece el color de fondo del badge en formato hexadecimal. Puedes personalizarlo cambiando el código de color.
+
+3. `](https://github.com/MateoCarballo/Programacion)`: Esto es el enlace que se abrirá cuando alguien haga clic en el badge. En este caso, lleva a la página de GitHub del proyecto "Programacion". Asegúrate de cambiarlo a la URL de tu propio repositorio.
+
+En resumen, el código genera un badge personalizado con un nombre de proyecto, un icono, un estilo y un color de fondo, y al hacer clic en el badge, se dirige al repositorio específico en GitHub. Puedes personalizar cada parte de este código para adaptarlo a tus necesidades.
+
+-->
 
 [![Programación](https://img.shields.io/badge/Programación-%F0%9F%92%BB-Boton?color=2271B3)](https://github.com/MateoCarballo/Programacion)
 [![Bases de Datos](https://img.shields.io/badge/Bases%20de%20Datos-%F0%9F%94%A7-Boton?color=2271B3)](https://github.com/MateoCarballo/BasesdeDatos)
