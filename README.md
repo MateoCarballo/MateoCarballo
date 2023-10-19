@@ -16,13 +16,13 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 # DAW/DAM :+1:
 ## Materias
 
-| Materia      | Enlace Repositorio |
-|--------------|--------------------|
-| :computer: Programación | [Enlace](https://github.com/MateoCarballo/Programacion)|
-| :floppy_disk: Bases de Datos| [Enlace](https://github.com/MateoCarballo/BasesdeDatos)|
-| :bulb: Contornos    | [Enlace](https://github.com/MateoCarballo/Contornos)|
-| :gear: Sistemas Informáticos | [Enlace](https://github.com/MateoCarballo/SistemasInformaticos)|
-| :pencil: Lenguaje de Marcas | [Enlace](https://github.com/MateoCarballo/LenguajeDeMarcas)|
+| Materia      |
+|--------------|
+| :computer:[<img alt="Static Badge" src="https://img.shields.io/badge/Programacion-Boton?color=2271B3">](https://github.com/MateoCarballo/Programacion) | |
+| :floppy_disk:[<img alt="Static Badge" src="https://img.shields.io/badge/Bases%20de%20datos-Boton?color=2271B3">](https://github.com/MateoCarballo/BasesdeDatos)| 
+| :bulb:[<img alt="Static Badge" src="https://img.shields.io/badge/Contornos%20de%20desarrollo-Boton?color=2271B3">](https://github.com/MateoCarballo/Contornos)|
+| :gear:[<img alt="Static Badge" src="https://img.shields.io/badge/Sistemas%20Informaticos-Boton?color=2271B3">](https://github.com/MateoCarballo/SistemasInformaticos)|
+| :pencil: [<img alt="Static Badge" src="https://img.shields.io/badge/Lenguaje%20de%20Marcas-Boton?color=2271B3">](https://github.com/MateoCarballo/LenguajeDeMarcas)|
 
 ![image](https://user-images.githubusercontent.com/115709668/226120756-12e08eba-714e-4cfe-b901-4f8dea9ca8ee.png)
 
