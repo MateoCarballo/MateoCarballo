@@ -16,13 +16,11 @@ Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 # DAW/DAM :+1:
 ## Materias
 
-Materias:
-
-:computer:[<img alt="Static Badge" src="https://img.shields.io/badge/Programacion-Boton?color=2271B3">](https://github.com/MateoCarballo/Programacion) 
-:floppy_disk:[<img alt="Static Badge" src="https://img.shields.io/badge/Bases%20de%20datos-Boton?color=2271B3">](https://github.com/MateoCarballo/BasesdeDatos) 
-:bulb:[<img alt="Static Badge" src="https://img.shields.io/badge/Contornos%20de%20desarrollo-Boton?color=2271B3">](https://github.com/MateoCarballo/Contornos)
-:gear:[<img alt="Static Badge" src="https://img.shields.io/badge/Sistemas%20Informaticos-Boton?color=2271B3">](https://github.com/MateoCarballo/SistemasInformaticos)
-:pencil: [<img alt="Static Badge" src="https://img.shields.io/badge/Lenguaje%20de%20Marcas-Boton?color=2271B3">](https://github.com/MateoCarballo/LenguajeDeMarcas)
+[![Programación](https://img.shields.io/badge/Programación-%F0%9F%92%BB-Boton?color=2271B3)](https://github.com/MateoCarballo/Programacion)
+[![Bases de Datos](https://img.shields.io/badge/Bases%20de%20Datos-%F0%9F%94%A7-Boton?color=2271B3)](https://github.com/MateoCarballo/BasesdeDatos)
+[![Contornos de Desarrollo](https://img.shields.io/badge/Contornos%20de%20Desarrollo-%F0%9F%92%A1-Boton?color=2271B3)](https://github.com/MateoCarballo/Contornos)
+[![Sistemas Informáticos](https://img.shields.io/badge/Sistemas%20Informáticos-%E2%9A%99-Boton?color=2271B3)](https://github.com/MateoCarballo/SistemasInformaticos)
+[![Lenguaje de Marcas](https://img.shields.io/badge/Lenguaje%20de%20Marcas-%F0%9F%93%8B-Boton?color=2271B3)](https://github.com/MateoCarballo/LenguajeDeMarcas)
 
 ![image](https://user-images.githubusercontent.com/115709668/226120756-12e08eba-714e-4cfe-b901-4f8dea9ca8ee.png)
 
