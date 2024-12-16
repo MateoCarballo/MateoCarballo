@@ -11,6 +11,15 @@ Mi objetivo es seguir mejorando mis habilidades de programación y convertirme e
 
 Repositorio de Mateo para almacenar materiales y tareas relacionadas con DAW.
 
+> [!NOTE]
+> Eres libre de coger toda la informacion que te sea útil.
+
+> [!IMPORTANT]
+> La idea de este repositorio es tener una copia de seguridad de todo lo que hago mientras curso esta FP. 
+
+> [!WARNING]
+> Puede haber errores en el código que consultas. Si tienes dudas, pruébalo y si lo mejoras, avísame.
+
 ¡Gracias por visitar mi perfil! Siéntete libre de echar un vistazo a mis repositorios y contactarme si tienes alguna pregunta o sugerencia. 😊
 
 # DAW/DAM :+1:
@@ -89,15 +98,6 @@ En resumen, el código genera un badge personalizado con un nombre de proyecto, 
 | Sintaxis .md     | [Enlace](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
 | Markdown (.md)   | [Enlace](https://daringfireball.net/projects/markdown/syntax)|
 </details>
-
-> [!NOTE]
-> Eres libre de coger toda la informacion que te sea útil.
-
-> [!IMPORTANT]
-> La idea de este repositorio es tener una copia de seguridad de todo lo que hago mientras curso esta FP. 
-
-> [!WARNING]
-> Puede haber errores en el código que consultas. Si tienes dudas, pruébalo y si lo mejoras, avísame.
 
 
 <!-- Cosas pendientes de realizar a nivel general.
