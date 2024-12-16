@@ -48,36 +48,28 @@ En resumen, el código genera un badge personalizado con un nombre de proyecto, 
 [![Programación de Servicios y Procesos](https://img.shields.io/badge/Programaci%C3%B3n%20de%20Servicio%20y%20Procesos-%F0%9F%8C%90-Boton?color=2271B3)](https://github.com/MateoCarballo/Programacion-De-Servicios-Y-Procesos)
 [![Desarrollo de interfaces](https://img.shields.io/badge/DI-Boton?color=2271B3)](https://github.com/MateoCarballo/DI)
 -->
-<table>
-  <tr>
-    <td align="left" valign="top">
-      <h3>Materias de Primer Curso</h3>
-      <p>[![💻 Programación](https://img.shields.io/badge/-💻%20Programación-007ACC?style=for-the-badge)](https://github.com/MateoCarballo/Programacion)</p>
-      <p>[![🔧 Bases de Datos](https://img.shields.io/badge/-🔧%20Bases%20de%20Datos-00897B?style=for-the-badge)](https://github.com/MateoCarballo/BasesdeDatos)</p>
-      <p>[![💡 Contornos de Desarrollo](https://img.shields.io/badge/-💡%20Contornos%20de%20Desarrollo-FFB300?style=for-the-badge)](https://github.com/MateoCarballo/Contornos)</p>
-      <p>[![⚙️ Sistemas Informáticos](https://img.shields.io/badge/-⚙️%20Sistemas%20Informáticos-546E7A?style=for-the-badge)](https://github.com/MateoCarballo/SistemasInformaticos)</p>
-      <p>[![📋 Lenguaje de Marcas](https://img.shields.io/badge/-📋%20Lenguaje%20de%20Marcas-6A1B9A?style=for-the-badge)](https://github.com/MateoCarballo/LenguajeDeMarcas)</p>
-    </td>
-    <td align="right" valign="top">
-      <h3>Materias de Segundo Curso</h3>
-      <p>[![📂 Acceso a Datos](https://img.shields.io/badge/-📂%20Acceso%20a%20Datos-2E7D32?style=for-the-badge)](https://github.com/MateoCarballo/Acceso-a-Datos)</p>
-      <p>[![📈 Sistemas de Gestión Empresarial](https://img.shields.io/badge/-📈%20Sistemas%20de%20Gestión%20Empresarial-FF5722?style=for-the-badge)](https://github.com/MateoCarballo/Sistemas-de-Gestion-Empresarial)</p>
-      <p>[![🤖 Programación Multimedia y Dispositivos Móviles](https://img.shields.io/badge/-🤖%20Programación%20Multimedia%20y%20Dispositivos%20Móviles-3949AB?style=for-the-badge)](https://github.com/MateoCarballo/Programacion-Multimedia-y-de-Dispositivos-Moviles)</p>
-      <p>[![🌐 Programación de Servicios y Procesos](https://img.shields.io/badge/-🌐%20Programación%20de%20Servicios%20y%20Procesos-1976D2?style=for-the-badge)](https://github.com/MateoCarballo/Programacion-De-Servicios-Y-Procesos)</p>
-      <p>[![🖼️ Desarrollo de Interfaces](https://img.shields.io/badge/-🖼️%20Desarrollo%20de%20Interfaces-7E57C2?style=for-the-badge)](https://github.com/MateoCarballo/DI)</p>
-    </td>
-  </tr>
-</table>
+[![💻 Programación](https://img.shields.io/badge/-💻%20Programación-007ACC?style=for-the-badge)](https://github.com/MateoCarballo/Programacion)
+[![🔧 Bases de Datos](https://img.shields.io/badge/-🔧%20Bases%20de%20Datos-00897B?style=for-the-badge)](https://github.com/MateoCarballo/BasesdeDatos)
+[![💡 Contornos de Desarrollo](https://img.shields.io/badge/-💡%20Contornos%20de%20Desarrollo-FFB300?style=for-the-badge)](https://github.com/MateoCarballo/Contornos)
+[![⚙️ Sistemas Informáticos](https://img.shields.io/badge/-⚙️%20Sistemas%20Informáticos-546E7A?style=for-the-badge)](https://github.com/MateoCarballo/SistemasInformaticos)
+[![📋 Lenguaje de Marcas](https://img.shields.io/badge/-📋%20Lenguaje%20de%20Marcas-6A1B9A?style=for-the-badge)](https://github.com/MateoCarballo/LenguajeDeMarcas)
 
-<div align="center">
+[![📂 Acceso a Datos](https://img.shields.io/badge/-📂%20Acceso%20a%20Datos-2E7D32?style=for-the-badge)](https://github.com/MateoCarballo/Acceso-a-Datos)
+[![📈 Sistemas de Gestión Empresarial](https://img.shields.io/badge/-📈%20Sistemas%20de%20Gestión%20Empresarial-FF5722?style=for-the-badge)](https://github.com/MateoCarballo/Sistemas-de-Gestion-Empresarial)
+[![🤖 Programación Multimedia y Dispositivos Móviles](https://img.shields.io/badge/-🤖%20Programación%20Multimedia%20y%20Dispositivos%20Móviles-3949AB?style=for-the-badge)](https://github.com/MateoCarballo/Programacion-Multimedia-y-de-Dispositivos-Moviles)
+[![🌐 Programación de Servicios y Procesos](https://img.shields.io/badge/-🌐%20Programación%20de%20Servicios%20y%20Procesos-1976D2?style=for-the-badge)](https://github.com/MateoCarballo/Programacion-De-Servicios-Y-Procesos)
+[![🖼️ Desarrollo de Interfaces](https://img.shields.io/badge/-🖼️%20Desarrollo%20de%20Interfaces-7E57C2?style=for-the-badge)](https://github.com/MateoCarballo/DI)
+
+
+<div>
 <h2>GitHub Stats</h2>
-<p align="center">
+<p align="letf">
   
   <img src="https://github-readme-stats.vercel.app/api?username=mateocarballo&hide=stars&show_icons=true&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocarballo&count_private=true">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocarballo&count_private=true">
 
 </p>
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/115709668/226120756-12e08eba-714e-4cfe-b901-4f8dea9ca8ee.png" width="700" height="500">
 
