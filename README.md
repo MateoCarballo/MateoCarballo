@@ -1,4 +1,5 @@
-![Header](https://via.placeholder.com/1200x400.png?text=👋+¡Hola,+soy+Mateo!+Bienvenid@+a+mi+Repositorio!)
+![Header](https://via.placeholder.com/1200x400.png?text=¡Hola,+soy+Mateo!+Bienvenid@+a+mi+Repositorio!)
+
 
 ---
 
