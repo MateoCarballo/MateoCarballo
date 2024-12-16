@@ -49,6 +49,16 @@ En resumen, el código genera un badge personalizado con un nombre de proyecto, 
 [![Desarrollo de interfaces](https://img.shields.io/badge/DI-Boton?color=2271B3)](https://github.com/MateoCarballo/DI)
 
 
+<div align="center">
+<h2>GitHub Stats</h2>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mateocarballo&hide=stars&show_icons=true&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocarballo&count_private=true">
+
+</p>
+</div>
+
 <img src="https://user-images.githubusercontent.com/115709668/226120756-12e08eba-714e-4cfe-b901-4f8dea9ca8ee.png" width="700" height="500">
 
 <details>
