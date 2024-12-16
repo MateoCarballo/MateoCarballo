@@ -49,18 +49,17 @@ En resumen, el código genera un badge personalizado con un nombre de proyecto, 
 [![Desarrollo de interfaces](https://img.shields.io/badge/DI-Boton?color=2271B3)](https://github.com/MateoCarballo/DI)
 -->
 
-[![💻 Programación](https://img.shields.io/badge/-💻%20Programación-007ACC?style=for-the-badge)](https://github.com/MateoCarballo/Programacion)
-[![🔧 Bases de Datos](https://img.shields.io/badge/-🔧%20Bases%20de%20Datos-00897B?style=for-the-badge)](https://github.com/MateoCarballo/BasesdeDatos)
-[![💡 Contornos de Desarrollo](https://img.shields.io/badge/-💡%20Contornos%20de%20Desarrollo-FFB300?style=for-the-badge)](https://github.com/MateoCarballo/Contornos)
-[![⚙️ Sistemas Informáticos](https://img.shields.io/badge/-⚙️%20Sistemas%20Informáticos-546E7A?style=for-the-badge)](https://github.com/MateoCarballo/SistemasInformaticos)
-[![📋 Lenguaje de Marcas](https://img.shields.io/badge/-📋%20Lenguaje%20de%20Marcas-6A1B9A?style=for-the-badge)](https://github.com/MateoCarballo/LenguajeDeMarcas)
+[![💻 Programación](https://img.shields.io/badge/-💻%20Programación-007ACC?style=for-the-badge)](https://github.com/MateoCarballo/Programacion)  
+[![🔧 Bases de Datos](https://img.shields.io/badge/-🔧%20Bases%20de%20Datos-00897B?style=for-the-badge)](https://github.com/MateoCarballo/BasesdeDatos)  
+[![💡 Contornos de Desarrollo](https://img.shields.io/badge/-💡%20Contornos%20de%20Desarrollo-FFB300?style=for-the-badge)](https://github.com/MateoCarballo/Contornos)  
+[![⚙️ Sistemas Informáticos](https://img.shields.io/badge/-⚙️%20Sistemas%20Informáticos-546E7A?style=for-the-badge)](https://github.com/MateoCarballo/SistemasInformaticos)  
+[![📋 Lenguaje de Marcas](https://img.shields.io/badge/-📋%20Lenguaje%20de%20Marcas-6A1B9A?style=for-the-badge)](https://github.com/MateoCarballo/LenguajeDeMarcas)  
 
-[![📂 Acceso a Datos](https://img.shields.io/badge/-📂%20Acceso%20a%20Datos-2E7D32?style=for-the-badge)](https://github.com/MateoCarballo/Acceso-a-Datos)
-[![📈 Sistemas de Gestión Empresarial](https://img.shields.io/badge/-📈%20Sistemas%20de%20Gestión%20Empresarial-FF5722?style=for-the-badge)](https://github.com/MateoCarballo/Sistemas-de-Gestion-Empresarial)
-[![🤖 Programación Multimedia y Dispositivos Móviles](https://img.shields.io/badge/-🤖%20Programación%20Multimedia%20y%20Dispositivos%20Móviles-3949AB?style=for-the-badge)](https://github.com/MateoCarballo/Programacion-Multimedia-y-de-Dispositivos-Moviles)
-[![🌐 Programación de Servicios y Procesos](https://img.shields.io/badge/-🌐%20Programación%20de%20Servicios%20y%20Procesos-1976D2?style=for-the-badge)](https://github.com/MateoCarballo/Programacion-De-Servicios-Y-Procesos)
-[![🖼️ Desarrollo de Interfaces](https://img.shields.io/badge/-🖼️%20Desarrollo%20de%20Interfaces-7E57C2?style=for-the-badge)](https://github.com/MateoCarballo/DI)
-
+[![📂 Acceso a Datos](https://img.shields.io/badge/-📂%20Acceso%20a%20Datos-2E7D32?style=for-the-badge)](https://github.com/MateoCarballo/Acceso-a-Datos)  
+[![📈 Sistemas de Gestión Empresarial](https://img.shields.io/badge/-📈%20Sistemas%20de%20Gestión%20Empresarial-FF5722?style=for-the-badge)](https://github.com/MateoCarballo/Sistemas-de-Gestion-Empresarial)  
+[![🤖 Programación Multimedia y Dispositivos Móviles](https://img.shields.io/badge/-🤖%20Programación%20Multimedia%20y%20Dispositivos%20Móviles-3949AB?style=for-the-badge)](https://github.com/MateoCarballo/Programacion-Multimedia-y-de-Dispositivos-Moviles)  
+[![🌐 Programación de Servicios y Procesos](https://img.shields.io/badge/-🌐%20Programación%20de%20Servicios%20y%20Procesos-1976D2?style=for-the-badge)](https://github.com/MateoCarballo/Programacion-De-Servicios-Y-Procesos)  
+[![🖼️ Desarrollo de Interfaces](https://img.shields.io/badge/-🖼️%20Desarrollo%20de%20Interfaces-7E57C2?style=for-the-badge)](https://github.com/MateoCarballo/DI)  
 
 
 
