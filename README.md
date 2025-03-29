@@ -1,5 +1,6 @@
-![Header]([https://via.placeholder.com/1200x400.png?text=¡Hola,+soy+Mateo!+Bienvenid@+a+mi+Repositorio!](https://avatars.githubusercontent.com/u/115709668?v=4))
+![Header]((https://avatars.githubusercontent.com/u/115709668?v=4))
 
+<!-- [https://via.placeholder.com/1200x400.png?text=¡Hola,+soy+Mateo!+Bienvenid@+a+mi+Repositorio!] -->
 
 ---
 
