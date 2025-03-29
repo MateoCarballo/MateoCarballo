@@ -1,8 +1,6 @@
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/115709668?v=4" alt="Header" width="100%" height="50%" />
-</p>
-<!-- [https://via.placeholder.com/1200x400.png?text=¡Hola,+soy+Mateo!+Bienvenid@+a+mi+Repositorio!] -->
+<div style="background-image: url('https://avatars.githubusercontent.com/u/115709668?v=4'); background-size: cover; height: 200px; width: 100%; text-align: center;">
+  <p style="padding-top: 70px; color: white;">¡Bienvenido a mi perfil!</p>
+</div>
 
 ---
 
