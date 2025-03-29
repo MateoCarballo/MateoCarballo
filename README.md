@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[Header](https://avatars.githubusercontent.com/u/115709668?v=4)" alt="Header" width="100%" />
+  <img src="(https://avatars.githubusercontent.com/u/115709668?v=4)" alt="Header" width="100%" />
 </p>
 <!-- [https://via.placeholder.com/1200x400.png?text=¡Hola,+soy+Mateo!+Bienvenid@+a+mi+Repositorio!] -->
 
