@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdsMWNqdzhwYXJjZXRhcTV4dXZ0Znoxd3JpcXc5eTVtZ3Vja2pyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" alt="Yo en los examenes">
+</p>
+
 <div style="background-image: url('https://avatars.githubusercontent.com/u/115709668?v=4'); background-size: cover; height: 200px; width: 100%; text-align: center;">
   <p style="padding-top: 70px; color: white;">¡Bienvenido a mi perfil!</p>
 </div>
