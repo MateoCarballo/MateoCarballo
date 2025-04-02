@@ -15,6 +15,68 @@
 
 💡 Soy apasionado por la programación y tengo conocimientos básicos en **Java** y **MySQL**. Actualmente uso **IntelliJ IDEA** y **Visual Studio Code** para mis proyectos. Mi objetivo es **convertirme en un desarrollador web profesional**.
 
+<!-- MATERIAS DE PRIMERO Y SEGUNDO -->
+<div style="display: flex; justify-content: space-between; padding: 20px;">
+    <!-- Materias - Primer Curso (DAM) -->
+    <div class="materias-container" style="display: flex; flex-direction: column; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 45%;">
+        <h2>📚 <strong>Materias - Primer Curso (DAM)</strong></h2>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/Programacion" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-💻%20Programación-007ACC?style=for-the-badge" alt="Programación" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/BasesdeDatos" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-🔧%20Bases%20de%20Datos-00897B?style=for-the-badge" alt="Bases de Datos" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/Contornos" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-💡%20Contornos%20de%20Desarrollo-FFB300?style=for-the-badge" alt="Contornos de Desarrollo" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/SistemasInformaticos" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-⚙️%20Sistemas%20Informáticos-546E7A?style=for-the-badge" alt="Sistemas Informáticos" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/LenguajeDeMarcas" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-📋%20Lenguaje%20de%20Marcas-6A1B9A?style=for-the-badge" alt="Lenguaje de Marcas" style="width: auto; height: 50px;">
+            </a>
+        </div>
+    </div>
+    <div class="materias-container" style="display: flex; flex-direction: column; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 45%;">
+        <h2>📚 <strong>Materias - Segundo Curso (DAM)</strong></h2>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/Acceso-a-Datos" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-📂%20Acceso%20a%20Datos-2E7D32?style=for-the-badge" alt="Acceso a Datos" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/Sistemas-de-Gestion-Empresarial" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-📈%20Sistemas%20de%20Gestión%20Empresarial-FF5722?style=for-the-badge" alt="Sistemas de Gestión Empresarial" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/PSP" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-⚙️%20Programación%20de%20los%20Servicios%20y%20Procesos-FF5722?style=for-the-badge" alt="Programación de los Servicios y Procesos" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/DI" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-💻%20Desarrollo%20de%20Interfaces-4CAF50?style=for-the-badge" alt="Desarrollo de Interfaces" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/PMDM" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-📱%20Programación%20de%20Dispositivos%20Multimedia%20y%20Dispositivos%20Móviles-2196F3?style=for-the-badge" alt="Programación de Dispositivos Multimedia y Móviles" style="width: auto; height: 50px;">
+            </a>
+        </div>
+    </div>
+</div>
+
+
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="center" style="font-size: 2em; color: #3498db;">Languages and Tools</h3>
 
@@ -93,68 +155,6 @@
   </div>
 </div>
 <br>
-<!-- MATERIAS DE PRIMERO Y SEGUNDO -->
-<div style="display: flex; justify-content: space-between; padding: 20px;">
-    <!-- Materias - Primer Curso (DAM) -->
-    <div class="materias-container" style="display: flex; flex-direction: column; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 45%;">
-        <h2>📚 <strong>Materias - Primer Curso (DAM)</strong></h2>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/Programacion" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-💻%20Programación-007ACC?style=for-the-badge" alt="Programación" style="width: auto; height: 50px;">
-            </a>
-        </div>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/BasesdeDatos" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-🔧%20Bases%20de%20Datos-00897B?style=for-the-badge" alt="Bases de Datos" style="width: auto; height: 50px;">
-            </a>
-        </div>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/Contornos" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-💡%20Contornos%20de%20Desarrollo-FFB300?style=for-the-badge" alt="Contornos de Desarrollo" style="width: auto; height: 50px;">
-            </a>
-        </div>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/SistemasInformaticos" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-⚙️%20Sistemas%20Informáticos-546E7A?style=for-the-badge" alt="Sistemas Informáticos" style="width: auto; height: 50px;">
-            </a>
-        </div>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/LenguajeDeMarcas" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-📋%20Lenguaje%20de%20Marcas-6A1B9A?style=for-the-badge" alt="Lenguaje de Marcas" style="width: auto; height: 50px;">
-            </a>
-        </div>
-    </div>
-    <div class="materias-container" style="display: flex; flex-direction: column; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 45%;">
-        <h2>📚 <strong>Materias - Segundo Curso (DAM)</strong></h2>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/Acceso-a-Datos" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-📂%20Acceso%20a%20Datos-2E7D32?style=for-the-badge" alt="Acceso a Datos" style="width: auto; height: 50px;">
-            </a>
-        </div>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/Sistemas-de-Gestion-Empresarial" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-📈%20Sistemas%20de%20Gestión%20Empresarial-FF5722?style=for-the-badge" alt="Sistemas de Gestión Empresarial" style="width: auto; height: 50px;">
-            </a>
-        </div>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/PSP" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-⚙️%20Programación%20de%20los%20Servicios%20y%20Procesos-FF5722?style=for-the-badge" alt="Programación de los Servicios y Procesos" style="width: auto; height: 50px;">
-            </a>
-        </div>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/DI" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-💻%20Desarrollo%20de%20Interfaces-4CAF50?style=for-the-badge" alt="Desarrollo de Interfaces" style="width: auto; height: 50px;">
-            </a>
-        </div>
-        <div class="materia-item" style="margin-bottom: 10px;">
-            <a href="https://github.com/MateoCarballo/PMDM" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/-📱%20Programación%20de%20Dispositivos%20Multimedia%20y%20Dispositivos%20Móviles-2196F3?style=for-the-badge" alt="Programación de Dispositivos Multimedia y Móviles" style="width: auto; height: 50px;">
-            </a>
-        </div>
-    </div>
-</div>
-
-
 
 <!-- ESTADISTICAS-->
 <table align="center">
