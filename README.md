@@ -15,63 +15,158 @@
 
 💡 Soy apasionado por la programación y tengo conocimientos básicos en **Java** y **MySQL**. Actualmente uso **IntelliJ IDEA** y **Visual Studio Code** para mis proyectos. Mi objetivo es **convertirme en un desarrollador web profesional**.
 
----
+<!-- LENGUAJES Y HERRAMIENTAS -->
+<h3 align="center" style="font-size: 2em; color: #3498db;">Languages and Tools</h3>
 
-## 🛠️ **Habilidades y Herramientas**
-### Lenguajes y Frameworks  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
+<div style="background-color: #1e1e1e; padding: 40px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+  <div style="text-align: center; margin-bottom: 30px;">
+    <h4 style="color: #f39c12; font-size: 1.8em;">Languages</h4>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60" style="border-radius: 10px; border: 2px solid #3498db; padding: 10px;">
+      </a>
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" style="border-radius: 10px; border: 2px solid #3498db; padding: 10px;">
+      </a>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="border-radius: 10px; border: 2px solid #3498db; padding: 10px;">
+      </a>
+      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60" style="border-radius: 10px; border: 2px solid #3498db; padding: 10px;">
+      </a>
+    </div>
+  </div>
 
-### Bases de Datos  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+  <div style="text-align: center;">
+    <h4 style="color: #f39c12; font-size: 1.8em;">Databases</h4>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="border-radius: 10px; border: 2px solid #3498db; padding: 10px;">
+      </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="border-radius: 10px; border: 2px solid #3498db; padding: 10px;">
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60" style="border-radius: 10px; border: 2px solid #3498db; padding: 10px;">
+      </a>
+    </div>
+  </div>
+</div>
 
-### IDEs y Herramientas  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
 
-### Otros  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
+  <!-- Herramientas -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <h4>Tools</h4>
+    <p align="left">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+      </a>
+      <a href="https://unity.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/>
+      </a>
+    </p>
+  </div>
 
----
+  <!-- IDEs -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <h4>IDEs</h4>
+    <p align="left">
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="50" height="50"/>
+      </a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+      </a>
+      <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="50" height="50"/>
+      </a>
+      <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" width="50" height="50"/>
+      </a>
+    </p>
+  </div>
+</div>
+<br>
+<!-- MATERIAS DE PRIMERO Y SEGUNDO -->
+<div style="display: flex; justify-content: space-between; padding: 20px;">
+    <!-- Materias - Primer Curso (DAM) -->
+    <div class="materias-container" style="display: flex; flex-direction: column; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 45%;">
+        <h2>📚 <strong>Materias - Primer Curso (DAM)</strong></h2>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/Programacion" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-💻%20Programación-007ACC?style=for-the-badge" alt="Programación" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/BasesdeDatos" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-🔧%20Bases%20de%20Datos-00897B?style=for-the-badge" alt="Bases de Datos" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/Contornos" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-💡%20Contornos%20de%20Desarrollo-FFB300?style=for-the-badge" alt="Contornos de Desarrollo" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/SistemasInformaticos" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-⚙️%20Sistemas%20Informáticos-546E7A?style=for-the-badge" alt="Sistemas Informáticos" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/LenguajeDeMarcas" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-📋%20Lenguaje%20de%20Marcas-6A1B9A?style=for-the-badge" alt="Lenguaje de Marcas" style="width: auto; height: 50px;">
+            </a>
+        </div>
+    </div>
+    <div class="materias-container" style="display: flex; flex-direction: column; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 45%;">
+        <h2>📚 <strong>Materias - Segundo Curso (DAM)</strong></h2>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/Acceso-a-Datos" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-📂%20Acceso%20a%20Datos-2E7D32?style=for-the-badge" alt="Acceso a Datos" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/Sistemas-de-Gestion-Empresarial" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-📈%20Sistemas%20de%20Gestión%20Empresarial-FF5722?style=for-the-badge" alt="Sistemas de Gestión Empresarial" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/PSP" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-⚙️%20Programación%20de%20los%20Servicios%20y%20Procesos-FF5722?style=for-the-badge" alt="Programación de los Servicios y Procesos" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/DI" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-💻%20Desarrollo%20de%20Interfaces-4CAF50?style=for-the-badge" alt="Desarrollo de Interfaces" style="width: auto; height: 50px;">
+            </a>
+        </div>
+        <div class="materia-item" style="margin-bottom: 10px;">
+            <a href="https://github.com/MateoCarballo/PMDM" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/-📱%20Programación%20de%20Dispositivos%20Multimedia%20y%20Dispositivos%20Móviles-2196F3?style=for-the-badge" alt="Programación de Dispositivos Multimedia y Móviles" style="width: auto; height: 50px;">
+            </a>
+        </div>
+    </div>
+</div>
 
-## 📚 **Materias - Primer Curso (DAM)** 
 
-[![💻 Programación](https://img.shields.io/badge/-💻%20Programación-007ACC?style=for-the-badge)](https://github.com/MateoCarballo/Programacion)
-[![🔧 Bases de Datos](https://img.shields.io/badge/-🔧%20Bases%20de%20Datos-00897B?style=for-the-badge)](https://github.com/MateoCarballo/BasesdeDatos)
-[![💡 Contornos de Desarrollo](https://img.shields.io/badge/-💡%20Contornos%20de%20Desarrollo-FFB300?style=for-the-badge)](https://github.com/MateoCarballo/Contornos)
-[![⚙️ Sistemas Informáticos](https://img.shields.io/badge/-⚙️%20Sistemas%20Informáticos-546E7A?style=for-the-badge)](https://github.com/MateoCarballo/SistemasInformaticos)
-[![📋 Lenguaje de Marcas](https://img.shields.io/badge/-📋%20Lenguaje%20de%20Marcas-6A1B9A?style=for-the-badge)](https://github.com/MateoCarballo/LenguajeDeMarcas)
 
----
-
-## 📚 **Materias - Segundo Curso (DAM)**
-
-[![📂 Acceso a Datos](https://img.shields.io/badge/-📂%20Acceso%20a%20Datos-2E7D32?style=for-the-badge)](https://github.com/MateoCarballo/Acceso-a-Datos)
-[![📈 Sistemas de Gestión Empresarial](https://img.shields.io/badge/-📈%20Sistemas%20de%20Gestión%20Empresarial-FF5722?style=for-the-badge)](https://github.com/MateoCarballo/Sistemas-de-Gestion-Empresarial)
-[![⚙️ Programación de los Servicios y Procesos](https://img.shields.io/badge/-⚙️%20Programación%20de%20los%20Servicios%20y%20Procesos-FF5722?style=for-the-badge)](https://github.com/MateoCarballo/PSP)
-[![💻 Desarrollo de Interfaces](https://img.shields.io/badge/-💻%20Desarrollo%20de%20Interfaces-4CAF50?style=for-the-badge)](https://github.com/MateoCarballo/DI)
-[![📱 Programación de Dispositivos Multimedia y Dispositivos Móviles](https://img.shields.io/badge/-📱%20Programación%20de%20Dispositivos%20Multimedia%20y%20Dispositivos%20Móviles-2196F3?style=for-the-badge)](https://github.com/MateoCarballo/PMDM)
-[![📈 Sistemas de Gestión Empresarial](https://img.shields.io/badge/-📈%20Sistemas%20de%20Gestión%20Empresarial-FF5722?style=for-the-badge)](https://github.com/MateoCarballo/SXE)
-
----
-
----
-
-## 📊 **Estadísticas de GitHub**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateocarballo&hide=stars&show_icons=true&line_height=32" alt="Mateo's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocarballo&layout=compact&langs_count=6" alt="Top Langs">
-</p>
-
----
+<!-- ESTADISTICAS-->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mateocarballo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical" height="180em"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocarballo&layout=compact&theme=radical" height="180em"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌟 **Proyectos Destacados**
 
