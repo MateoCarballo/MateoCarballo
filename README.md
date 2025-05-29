@@ -182,7 +182,7 @@
 ## 📞 **Contacto**
 
 ¡Me encantaría conectarme contigo!  
-📧 **Email:** [mateo93dev@gmail.com](mailto:mateo93dev@gmail.com)  
+📧 **Email:** [mateocarballoalonso@outlook.com](mailto:mateocarballoalonso@outlook.com)  
 🔗 **LinkedIn:** [Mateo Carballo](https://www.linkedin.com/in/mateo-carballo/)  
 🐙 **GitHub:** [MateoCarballo](https://github.com/MateoCarballo)  
 
@@ -203,3 +203,6 @@ Aquí tienes un listado de recursos relevantes para programadores:
 ---
 
 ¡Gracias por visitar mi perfil!  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MateoCarballo&color=blue" alt="Contador de Visitas"/>
+</div>
