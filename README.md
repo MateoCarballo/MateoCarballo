@@ -157,16 +157,12 @@
 <br>
 
 <!-- ESTADISTICAS-->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mateocarballo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical" height="180em"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocarballo&layout=compact&theme=radical" height="180em"/>
-    </td>
-  </tr>
-</table>
+### 🚀 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateocarballo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocarballo&layout=compact&theme=radical" height="180em"/>
+</p>
 
 ## 🌟 **Proyectos Destacados**
 
