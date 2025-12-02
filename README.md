@@ -158,11 +158,7 @@
 
 <!-- ESTADISTICAS-->
 ### 📊 Estadísticas de GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=mateocarballo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocarballo&layout=compact&theme=radical" />
-
+<img src="https://avatars.githubusercontent.com/u/1?v=4" />
 ## 🌟 **Proyectos Destacados**
 
 | Nombre del Proyecto | Descripción                         | Enlace                                                                 |
