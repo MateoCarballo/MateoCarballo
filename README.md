@@ -13,8 +13,6 @@
 
 ## 🛠️ Stack Tecnológico Clave
 
-*Priorizando experiencia y herramientas de nivel profesional.*
-
 <p align="center">
   
   ### Lenguajes & Frameworks
