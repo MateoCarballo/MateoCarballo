@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/115709668/222216666-4f9e1e36-5415-4674-8b63-2289659b48f5.gif" alt="Banner Animado Profesional" style="width:100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Mateo%20Carballo&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full-Stack&descAlignY=55&descAlign=62" alt="Banner" style="width:100%;">
 </p>
 
-<h1 align="center">Hola, soy Mateo Carballo 👋</h1>
-<h3 align="center">Desarrollador Full-Stack | Especialista en Java/Spring Boot | Graduado en DAM</h3>
+
+<h1 align="center">Hola, soy Mateo Carballo</h1>
+<h3 align="center">Desarrollador Full-Stack | Especialista en Java y Spring Boot | Graduado en DAM</h3>
 
 <p align="center">
   <a href="mailto:mateocarballoalonso@outlook.com">
@@ -19,21 +20,21 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Recién graduado como **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**, con formación complementaria en **Automatización y Robótica Industrial (ARI)**. 
 
 Me apasiona construir soluciones de software robustas y escalables. Mi enfoque principal está en el ecosistema **Java/Spring Boot** y el desarrollo de arquitecturas limpias, aplicando principios **SOLID** y **Patrones de Diseño**. Tengo interés por el desarrollo Full-Stack, cubriendo desde la persistencia de datos y desarrollo de APIs REST, hasta la contenedorización (Docker), integraciones de hardware (IoT) y el desarrollo de interfaces de usuario.
 
-- 🔭 **Actualmente enfocado en:** Buenas prácticas, despliegues de aplicaciones con Docker/Nginx y arquitecturas Cloud/Microservicios.
-- 🌱 **Aprendiendo continuamente:** Ecosistema Spring, tecnologías Cloud (AWS, MinIO) y nuevas tendencias en Java/Kotlin.
-- 👯 **Buscando:** Mi primera oportunidad profesional como Desarrollador Junior donde pueda aportar valor al equipo, aprender buenas metodologías de trabajo ágil y seguir creciendo técnicamente.
+- **Actualmente enfocado en:** Buenas prácticas, despliegues de aplicaciones con Docker/Nginx y arquitecturas Cloud/Microservicios.
+- **Aprendiendo continuamente:** Ecosistema Spring, tecnologías Cloud (AWS, MinIO) y nuevas tendencias en Java/Kotlin.
+- **Buscando:** Mi primera oportunidad profesional como Desarrollador Junior donde pueda aportar valor al equipo, aprender buenas metodologías de trabajo ágil y seguir creciendo técnicamente.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-### Backend & Lenguajes
+### Backend y Lenguajes
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -41,7 +42,7 @@ Me apasiona construir soluciones de software robustas y escalables. Mi enfoque p
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Frontend & Móvil
+### Frontend y Móvil
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -55,7 +56,7 @@ Me apasiona construir soluciones de software robustas y escalables. Mi enfoque p
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### Infraestructura, DevOps & Herramientas
+### Infraestructura, DevOps y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
@@ -65,38 +66,37 @@ Me apasiona construir soluciones de software robustas y escalables. Mi enfoque p
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 Aquí tienes algunos de los repositorios y proyectos más relevantes que he desarrollado:
 
-### 🕒 [Control de Registros Horarios (IoT)](https://github.com/MateoCarballo/Proyecto_CAM)
+### [Control de Registros Horarios (IoT)](https://github.com/MateoCarballo/Proyecto_CAM)
 **Solución Full-Stack IoT** desarrollada como Proyecto de Fin de Ciclo (PFC).
 - **Descripción:** Sistema integral de control de presencia de trabajadores mediante un dispositivo de hardware y administración centralizada.
 - **Tecnologías:** `Spring Boot (API REST)`, `Kotlin / Jetpack Compose (Android UI)`, `MySQL`, `Arduino IDE (RFID)`.
 
-### 🔗 [Microservicios API-REST](https://github.com/MateoCarballo/Entregable-AD-5)
+### [Microservicios API-REST](https://github.com/MateoCarballo/Entregable-AD-5)
 - **Descripción:** Arquitectura distribuida basada en microservicios, implementando patrones de diseño eficientes, registro con Eureka Server y enrutamiento con API Gateway.
 - **Tecnologías:** `Java`, `Spring Boot`, `Eureka Server`, `Docker`.
 
-### 💾 [Persistencia de Datos & JDBC](https://github.com/MateoCarballo/AD/tree/main/Evaluacion%2001/Conexiones%20a%20DB/Entregable/Entregable_DB)
+### [Persistencia de Datos & JDBC](https://github.com/MateoCarballo/AD/tree/main/Evaluacion%2001/Conexiones%20a%20DB/Entregable/Entregable_DB)
 - **Descripción:** Aplicación para gestionar la conexión a motores de base de datos a través de JDBC, enfocada en optimización de consultas y esquema de bases de datos.
 - **Tecnologías:** `Java`, `PostgreSQL`, `MySQL`, `SQL`.
 
-### 🗂️ [Manejo y Procesamiento de JSON](https://github.com/MateoCarballo/AD/tree/main/Evaluacion%2001/Ficheros/Entregable%20JSON)
+### [Manejo y Procesamiento de JSON](https://github.com/MateoCarballo/AD/tree/main/Evaluacion%2001/Ficheros/Entregable%20JSON)
 - **Descripción:** Herramienta enfocada en la serialización, procesamiento robusto y validación de datos complejos en formato JSON.
 - **Tecnologías:** `Java`, `Librerías JSON`.
 
-### 🏎️ [Réplica Web F1](https://github.com/MateoCarballo/Entregable_LMSXI)
+### [Réplica Web F1](https://github.com/MateoCarballo/Entregable_LMSXI)
 - **Descripción:** Proyecto Frontend enfocado en Responsive Design, recreando una interfaz web moderna y completamente adaptable a pantallas de distintos tamaños.
 - **Tecnologías:** `HTML5`, `CSS3`, `Flexbox`, `CSS Grid`.
 
 ---
 
-## 📈 Estadísticas de Contribución
+## Estadísticas de Contribución
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateocarballo&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocarballo&layout=compact&langs_count=6&theme=radium&hide_border=true" alt="Lenguajes Principales" />
+  <img src="https://streak-stats.demolab.com/?user=MateoCarballo&theme=radium&hide_border=true" alt="Racha de Contribuciones en GitHub" />
 </p>
 
 ---
